@@ -1,1 +1,11 @@
-print("Hello, World!")
+
+print("Hello world!")
+
+
+-- this is single line comment
+
+--[[
+this is multi line comment
+]]
+
+
